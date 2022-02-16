@@ -30,7 +30,7 @@ Auto numbering looks like this: (not working)
 1. Item 1
 
 graph TD;
-A-->B;
-A-->C;
-B-->D;
-C-->D;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
