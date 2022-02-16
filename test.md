@@ -29,8 +29,11 @@ Auto numbering looks like this: (not working)
 
 1. Item 1
 
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
